@@ -17,4 +17,10 @@
 <div style="padding:10px;"> </div>
 
 ## PROJECT
-1. MAP(Make A Plan)
+### 1. [MAP(Make A Plan)](https://github.com/tkdwls4453/MAP)  <br></br>
+>여행 계획 설계 및 공유 서비스 (팀 프로젝트)<br></br>
+>개발 기간: 2022.06.27 ~ 2022.07.29 <br></br>
+>기술 스택: <br></br>
+>Java 11 / Spring Boot / Spring Data JPA <br></br>
+>RDS / MySQL / Spring Security / AWS ElasticBeanstalk
+___
