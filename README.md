@@ -7,7 +7,7 @@
 ## ABOUT ME
 - 이름: 윤상진
 - 생년월일: 98.02.19
-- 학력: 한국항공대학교(휴학중)
+- 학력: 한국항공대학교
 <div style="padding:10px;"> </div>
 
 ## CONTACT
